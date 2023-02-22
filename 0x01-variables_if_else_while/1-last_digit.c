@@ -4,10 +4,9 @@
 /**
  *main - Entry point
  *Description: 'The last digit'
- *Return: Always 0 (success)
+ *Return: Always 0 (Success)
  */
-/* more headers goes there */
-/* betty style doc for function main goes there */
+
 int main(void)
 {
 	int n; x;
